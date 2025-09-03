@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello World! I'm Reina 👾
 
-<!--
-**reinasherry/Reinasherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student who loves where creativity meets code.
 
-Here are some ideas to get you started:
+- ✨ **Passionate About:** 
+  - Designing and developing games
+  - The art and tech of **3D animation**
+  - Building and programming **robotics** systems
+- 🔧 I enjoy using code as a tool for creation, whether it's for a virtual universe or a real-world machine.
+- 🌱 Currently sharpening my skills and always building something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 VSCode, 🎵 Spotify, and a cup of ☕ coffee.  
+*The only trio I trust with my code and my vibe.*
