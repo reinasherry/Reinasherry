@@ -9,6 +9,8 @@ I'm a CS student who loves where creativity meets code.
 - 🔧 I enjoy using code as a tool for creation, whether it's for a virtual universe or a real-world machine.
 - 🌱 Currently sharpening my skills and always building something new.
 
+Currently sharpening my Java programming skills and building new projects
+
 💻 VSCode, 🎵 Spotify, and a cup of ☕ coffee.  
 *The only trio I trust with my code and my vibe.*
 
