@@ -5,7 +5,8 @@
 
 # Hello World! I'm Reina 👾
 
-I'm a CS student who loves where creativity meets code.
+I'm a CS student who loves where creativity meets code. <img width="256" height="384" alt="Cyberpunk Coder in Neon Glow" 
+src="https://github.com/user-attachments/assets/89fda87a-07a7-40a3-90dd-aec16a949d0b" align="right"/>
 
 - ✨ **Passionate About:** 
   - Designing and developing games
