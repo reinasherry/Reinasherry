@@ -1,10 +1,15 @@
+
+<img width="1536" height="1024" alt="Neon Cyberpunk Programmer in Action" src="https://github.com/user-attachments/assets/af8b551b-e771-405c-8f8f-8a8fe3198439" />
+
+
+
 # Hello World! I'm Reina 👾
 
 I'm a CS student who loves where creativity meets code.
 
 - ✨ **Passionate About:** 
   - Designing and developing games
-  - The art and tech of **3D animation**
+  - The art and tech of **3D animation**                                                                            
   - Building and programming **robotics** systems
 - 🔧 I enjoy using code as a tool for creation, whether it's for a virtual universe or a real-world machine.
 - 🌱 Currently sharpening my Java programming skills and always building something new.
@@ -32,10 +37,14 @@ I'm a CS student who loves where creativity meets code.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=reinasherry&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=reinasherry&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![☆☆☆](https://github.com/user-attachments/assets/78e065a5-f474-4e53-9032-c6c649887280)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
