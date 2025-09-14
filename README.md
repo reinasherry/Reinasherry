@@ -1,5 +1,5 @@
 
-<img width="1536" height="500" alt="Neon Cyberpunk Programmer in Action" src="https://github.com/user-attachments/assets/af8b551b-e771-405c-8f8f-8a8fe3198439" />
+<img width="1536" height="600" alt="Neon Cyberpunk Programmer in Action" src="https://github.com/user-attachments/assets/af8b551b-e771-405c-8f8f-8a8fe3198439" />
 
 
 
